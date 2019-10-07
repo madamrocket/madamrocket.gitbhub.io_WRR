@@ -1,0 +1,57 @@
+
+body {
+  font-family: "Arial";
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Arial";
+}
+
+p {
+  color: black;
+}
+
+/* Containers */
+
+.container-fluid{
+  padding: 7% 15%;
+}
+
+/* Sections */
+
+.white-section {
+  background-color: #fff;
+}
+
+/* Title Section */
+
+#title {
+  background-color: #fff;
+  color: black;
+  text-align: left;
+}
+
+#title .container-fluid {
+  padding: 5% 15% 7%;
+}
+
+/* Features Section */
+
+#features {
+  position: relative;
+}
+
+.feature-title {
+  font-size: 1rem;
+}
+
+.feature-box {
+  padding: 4.5%;
+}
+
+/* Footer Section */
+
+  #title {
+    text-align: center;
+  }
